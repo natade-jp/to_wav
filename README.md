@@ -1,7 +1,8 @@
 # to_wav
-Tool for Windows to convert media files to wav files.
 
-メディアファイルをwavファイルへ変換するWindows用ツールです。
+This software is a Windows tool to convert media files to wav files.
+
+このソフトウェアはメディアファイルをwavファイルへ変換するWindows用ツールです。
 
 # How to use
 
