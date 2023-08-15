@@ -19,6 +19,6 @@ ffmpegのソースコードは以下で配布しております。
 
 https://github.com/BtbN/FFmpeg-Builds/releases/tag/autobuild-2023-08-14-12-53
 
-GPLの利用については以下で解説されています。
+execを使用したGPLの利用については以下で解説されています。
 
-https://www.gnu.org/licenses/gpl-faq.ja.html#GPLInProprietarySystem
+https://www.gnu.org/licenses/gpl-faq.ja.html#GPLPlugins
